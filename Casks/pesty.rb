@@ -1,6 +1,6 @@
 cask "pesty" do
-  version "1.3.1"
-  sha256 "3b10c56071cadf5d60f117380057c375514b77f1f704d4bf0d20deac5a41a30b"
+  version "1.3.2"
+  sha256 "738c9b6ee5244eba042b83835207dc0657f34a683e700460de9deac5325a6d7b"
 
   url "https://github.com/bifrost-proxy/pesty/releases/download/v#{version}/Pesty-#{version}.dmg"
   name "Pesty"
